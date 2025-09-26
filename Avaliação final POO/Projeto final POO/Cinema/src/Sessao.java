@@ -21,6 +21,8 @@ public class Sessao {
         this.status = status;
     }
 
+    public Sessao(){}
+
     public int getIdSessao() {
         return idSessao;
     }

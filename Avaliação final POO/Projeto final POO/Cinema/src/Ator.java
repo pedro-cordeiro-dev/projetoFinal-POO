@@ -19,6 +19,11 @@ public class Ator extends Pessoa{
 
     }
 
+    public Ator() {
+        super("", "", "");
+        this.registro = 0;
+    }
+
     public int getregistro(){
 
         return registro;

@@ -20,6 +20,10 @@ public class Assento {
 
     }
 
+    public Assento(){
+
+    }
+
     public int getidAssento() {
 
         return idAssento;

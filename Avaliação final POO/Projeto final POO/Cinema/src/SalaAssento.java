@@ -20,6 +20,8 @@ public class SalaAssento {
         this.sala = sala;
     }
 
+    public SalaAssento(){}
+
     public int getidSalaAssento() {
         return idSalaAssento;
     }

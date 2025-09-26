@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class FilmeAtor {
+public class FilmeAtor extends Ator{
 
     Scanner scanner = new Scanner(System.in);
 
